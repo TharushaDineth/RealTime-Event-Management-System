@@ -1,0 +1,155 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+h1,
+h2 {
+  color: #333;
+  text-align: center; /* Centered headings */
+  font-weight: bold;
+  padding: 6px;
+}
+
+h1{
+  padding: 20px;
+}
+
+/* Container for the form and config list */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centered content */
+  justify-content: center;
+}
+
+/* Styling the form */
+form {
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 600px; /* Restrict width for better responsiveness */
+  display: flex;
+  flex-direction: column; /* Center inputs and buttons */
+  align-items: center;
+}
+
+form div {
+  margin-bottom: 15px;
+  text-align: left;
+  width: 100%;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+input[type="number"] {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+/* Styling the configuration list */
+ul {
+  list-style-type: none;
+  padding: 0;
+  width: 100%;
+  max-width: 600px; /* Restrict width for better responsiveness */
+}
+
+li {
+  background: #fff;
+  color: black;
+  margin-bottom: 15px;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+li div {
+  margin-bottom: 10px;
+}
+
+button.delete-btn {
+  background-color: #f44336;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button.delete-btn:hover {
+  background-color: #e53935;
+}
+
+/* Add responsiveness */
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+
+  form, ul {
+    width: 100%; /* Take full width on smaller screens */
+  }
+
+  button {
+    width: 100%; /* Make buttons full width for better UX */
+    text-align: center;
+  }
+
+  li {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  h1,
+  h2 {
+    font-size: 1.5rem; /* Smaller font sizes for headings */
+  }
+
+  input[type="number"] {
+    font-size: 14px; /* Adjust input size */
+  }
+
+  button {
+    font-size: 14px;
+    padding: 8px 12px;
+  }
+}
