@@ -1,0 +1,1104 @@
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 8
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 500
+Ticket Retrieval Rate (ms) for Customers: 300
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 8
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 8
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 50
+Ticket Retrieval Rate (ms) for Customers: 30
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 8
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 8
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 50
+Ticket Retrieval Rate (ms) for Customers: 20
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 8
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 8
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 70
+Ticket Retrieval Rate (ms) for Customers: 40
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 8
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 8
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 100
+Ticket Retrieval Rate (ms) for Customers: 50
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 8
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 8
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 100
+Ticket Retrieval Rate (ms) for Customers: 50
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 8
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 8
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 100
+Ticket Retrieval Rate (ms) for Customers: 50
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 8
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 8
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 100
+Ticket Retrieval Rate (ms) for Customers: 50
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 8
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 8
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 100
+Ticket Retrieval Rate (ms) for Customers: 50
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 8
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 8
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 100
+Ticket Retrieval Rate (ms) for Customers: 50
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 8
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 8
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 100
+Ticket Retrieval Rate (ms) for Customers: 50
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 8
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 8
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 100
+Ticket Retrieval Rate (ms) for Customers: 50
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 8
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 100
+Ticket Retrieval Rate (ms) for Customers: 50
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 100
+Ticket Retrieval Rate (ms) for Customers: 50
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 100
+Ticket Retrieval Rate (ms) for Customers: 50
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 100
+Number of Vendors: 4
+Total Number of Customers: 50
+Number of VIP Customers: 5
+Tickets per Vendor: 25
+Ticket Release Rate (ms) for Vendors: 200
+Ticket Retrieval Rate (ms) for Customers: 100
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+Customer ID: 2, Tickets Requested: 2, VIP: Yes
+Customer ID: 3, Tickets Requested: 2, VIP: Yes
+Customer ID: 4, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+Customer ID: 10, Tickets Requested: 2, VIP: No
+Customer ID: 11, Tickets Requested: 2, VIP: No
+Customer ID: 12, Tickets Requested: 2, VIP: No
+Customer ID: 13, Tickets Requested: 2, VIP: No
+Customer ID: 14, Tickets Requested: 2, VIP: No
+Customer ID: 15, Tickets Requested: 2, VIP: No
+Customer ID: 16, Tickets Requested: 2, VIP: No
+Customer ID: 17, Tickets Requested: 2, VIP: No
+Customer ID: 18, Tickets Requested: 2, VIP: No
+Customer ID: 19, Tickets Requested: 2, VIP: No
+Customer ID: 20, Tickets Requested: 2, VIP: No
+Customer ID: 21, Tickets Requested: 2, VIP: No
+Customer ID: 22, Tickets Requested: 2, VIP: No
+Customer ID: 23, Tickets Requested: 2, VIP: No
+Customer ID: 24, Tickets Requested: 2, VIP: No
+Customer ID: 25, Tickets Requested: 2, VIP: No
+Customer ID: 26, Tickets Requested: 2, VIP: No
+Customer ID: 27, Tickets Requested: 2, VIP: No
+Customer ID: 28, Tickets Requested: 2, VIP: No
+Customer ID: 29, Tickets Requested: 2, VIP: No
+Customer ID: 30, Tickets Requested: 2, VIP: No
+Customer ID: 31, Tickets Requested: 2, VIP: No
+Customer ID: 32, Tickets Requested: 2, VIP: No
+Customer ID: 33, Tickets Requested: 2, VIP: No
+Customer ID: 34, Tickets Requested: 2, VIP: No
+Customer ID: 35, Tickets Requested: 2, VIP: No
+Customer ID: 36, Tickets Requested: 2, VIP: No
+Customer ID: 37, Tickets Requested: 2, VIP: No
+Customer ID: 38, Tickets Requested: 2, VIP: No
+Customer ID: 39, Tickets Requested: 2, VIP: No
+Customer ID: 40, Tickets Requested: 2, VIP: No
+Customer ID: 41, Tickets Requested: 2, VIP: No
+Customer ID: 42, Tickets Requested: 2, VIP: No
+Customer ID: 43, Tickets Requested: 2, VIP: No
+Customer ID: 44, Tickets Requested: 2, VIP: No
+Customer ID: 45, Tickets Requested: 2, VIP: No
+Customer ID: 46, Tickets Requested: 2, VIP: No
+Customer ID: 47, Tickets Requested: 2, VIP: No
+Customer ID: 48, Tickets Requested: 2, VIP: No
+Customer ID: 49, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 100, Total Vendors: 4, Total Customers: 50
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 500
+Ticket Retrieval Rate (ms) for Customers: 400
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 400
+Ticket Retrieval Rate (ms) for Customers: 200
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 400
+Ticket Retrieval Rate (ms) for Customers: 100
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 300
+Ticket Retrieval Rate (ms) for Customers: 150
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 250
+Ticket Retrieval Rate (ms) for Customers: 100
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 350
+Ticket Retrieval Rate (ms) for Customers: 100
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 350
+Ticket Retrieval Rate (ms) for Customers: 200
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 350
+Ticket Retrieval Rate (ms) for Customers: 100
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 450
+Ticket Retrieval Rate (ms) for Customers: 200
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 350
+Ticket Retrieval Rate (ms) for Customers: 100
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 350
+Ticket Retrieval Rate (ms) for Customers: 200
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 1000
+Ticket Retrieval Rate (ms) for Customers: 2000
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 10
+Number of VIP Customers: 2
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 500
+Ticket Retrieval Rate (ms) for Customers: 300
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 2, Tickets Requested: 2, VIP: No
+Customer ID: 3, Tickets Requested: 2, VIP: No
+Customer ID: 4, Tickets Requested: 2, VIP: No
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 100
+Number of Vendors: 2
+Total Number of Customers: 2
+Number of VIP Customers: 1
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 1000
+Ticket Retrieval Rate (ms) for Customers: 2000
+Tickets per Customer: 4
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 4, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 1, Tickets Requested: 4, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 100, Total Vendors: 2, Total Customers: 2
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 100
+Number of Vendors: 1
+Total Number of Customers: 2
+Number of VIP Customers: 1
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 1000
+Ticket Retrieval Rate (ms) for Customers: 1000
+Tickets per Customer: 1
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 1, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 1, Tickets Requested: 1, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 100, Total Vendors: 1, Total Customers: 2
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 100
+Number of Vendors: 1
+Total Number of Customers: 1
+Number of VIP Customers: 0
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 1000
+Ticket Retrieval Rate (ms) for Customers: 1000
+Tickets per Customer: 5
+
+
+VIP Customer Details:
+
+Regular Customer Details:
+Customer ID: 0, Tickets Requested: 5, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 100, Total Vendors: 1, Total Customers: 1
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 100
+Number of Vendors: 1
+Total Number of Customers: 1
+Number of VIP Customers: 0
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 1000
+Ticket Retrieval Rate (ms) for Customers: 1000
+Tickets per Customer: 4
+
+
+VIP Customer Details:
+
+Regular Customer Details:
+Customer ID: 0, Tickets Requested: 4, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 100, Total Vendors: 1, Total Customers: 1
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 1000
+Number of Vendors: 1
+Total Number of Customers: 10
+Number of VIP Customers: 5
+Tickets per Vendor: 5
+Ticket Release Rate (ms) for Vendors: 1000
+Ticket Retrieval Rate (ms) for Customers: 1000
+Tickets per Customer: 1
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 1, VIP: Yes
+Customer ID: 1, Tickets Requested: 1, VIP: Yes
+Customer ID: 2, Tickets Requested: 1, VIP: Yes
+Customer ID: 3, Tickets Requested: 1, VIP: Yes
+Customer ID: 4, Tickets Requested: 1, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 5, Tickets Requested: 1, VIP: No
+Customer ID: 6, Tickets Requested: 1, VIP: No
+Customer ID: 7, Tickets Requested: 1, VIP: No
+Customer ID: 8, Tickets Requested: 1, VIP: No
+Customer ID: 9, Tickets Requested: 1, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 1000, Total Vendors: 1, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 100
+Number of Vendors: 4
+Total Number of Customers: 20
+Number of VIP Customers: 5
+Tickets per Vendor: 2
+Ticket Release Rate (ms) for Vendors: 500
+Ticket Retrieval Rate (ms) for Customers: 800
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+Customer ID: 2, Tickets Requested: 2, VIP: Yes
+Customer ID: 3, Tickets Requested: 2, VIP: Yes
+Customer ID: 4, Tickets Requested: 2, VIP: Yes
+Customer ID: 5, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+Customer ID: 10, Tickets Requested: 2, VIP: No
+Customer ID: 11, Tickets Requested: 2, VIP: No
+Customer ID: 12, Tickets Requested: 2, VIP: No
+Customer ID: 13, Tickets Requested: 2, VIP: No
+Customer ID: 14, Tickets Requested: 2, VIP: No
+Customer ID: 15, Tickets Requested: 2, VIP: No
+Customer ID: 16, Tickets Requested: 2, VIP: No
+Customer ID: 17, Tickets Requested: 2, VIP: No
+Customer ID: 18, Tickets Requested: 2, VIP: No
+Customer ID: 19, Tickets Requested: 2, VIP: No
+Customer ID: 20, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 100, Total Vendors: 4, Total Customers: 20
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 4
+Total Number of Customers: 20
+Number of VIP Customers: 5
+Tickets per Vendor: 2
+Ticket Release Rate (ms) for Vendors: 2000
+Ticket Retrieval Rate (ms) for Customers: 3000
+Tickets per Customer: 1
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 1, VIP: Yes
+Customer ID: 1, Tickets Requested: 1, VIP: Yes
+Customer ID: 2, Tickets Requested: 1, VIP: Yes
+Customer ID: 3, Tickets Requested: 1, VIP: Yes
+Customer ID: 4, Tickets Requested: 1, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 5, Tickets Requested: 1, VIP: No
+Customer ID: 6, Tickets Requested: 1, VIP: No
+Customer ID: 7, Tickets Requested: 1, VIP: No
+Customer ID: 8, Tickets Requested: 1, VIP: No
+Customer ID: 9, Tickets Requested: 1, VIP: No
+Customer ID: 10, Tickets Requested: 1, VIP: No
+Customer ID: 11, Tickets Requested: 1, VIP: No
+Customer ID: 12, Tickets Requested: 1, VIP: No
+Customer ID: 13, Tickets Requested: 1, VIP: No
+Customer ID: 14, Tickets Requested: 1, VIP: No
+Customer ID: 15, Tickets Requested: 1, VIP: No
+Customer ID: 16, Tickets Requested: 1, VIP: No
+Customer ID: 17, Tickets Requested: 1, VIP: No
+Customer ID: 18, Tickets Requested: 1, VIP: No
+Customer ID: 19, Tickets Requested: 1, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 4, Total Customers: 20
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 20
+Number of Vendors: 3
+Total Number of Customers: 10
+Number of VIP Customers: 3
+Tickets per Vendor: 2
+Ticket Release Rate (ms) for Vendors: 1000
+Ticket Retrieval Rate (ms) for Customers: 2000
+Tickets per Customer: 1
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 1, VIP: Yes
+Customer ID: 1, Tickets Requested: 1, VIP: Yes
+Customer ID: 2, Tickets Requested: 1, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 3, Tickets Requested: 1, VIP: No
+Customer ID: 4, Tickets Requested: 1, VIP: No
+Customer ID: 5, Tickets Requested: 1, VIP: No
+Customer ID: 6, Tickets Requested: 1, VIP: No
+Customer ID: 7, Tickets Requested: 1, VIP: No
+Customer ID: 8, Tickets Requested: 1, VIP: No
+Customer ID: 9, Tickets Requested: 1, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 20, Total Vendors: 3, Total Customers: 10
+Ticketing System has been successfully executed.
+
+Configuration Details:
+Maximum Capacity of Ticket Pool: 30
+Number of Vendors: 5
+Total Number of Customers: 10
+Number of VIP Customers: 5
+Tickets per Vendor: 10
+Ticket Release Rate (ms) for Vendors: 1000
+Ticket Retrieval Rate (ms) for Customers: 2000
+Tickets per Customer: 2
+
+
+VIP Customer Details:
+Customer ID: 0, Tickets Requested: 2, VIP: Yes
+Customer ID: 1, Tickets Requested: 2, VIP: Yes
+Customer ID: 2, Tickets Requested: 2, VIP: Yes
+Customer ID: 3, Tickets Requested: 2, VIP: Yes
+Customer ID: 4, Tickets Requested: 2, VIP: Yes
+
+Regular Customer Details:
+Customer ID: 5, Tickets Requested: 2, VIP: No
+Customer ID: 6, Tickets Requested: 2, VIP: No
+Customer ID: 7, Tickets Requested: 2, VIP: No
+Customer ID: 8, Tickets Requested: 2, VIP: No
+Customer ID: 9, Tickets Requested: 2, VIP: No
+
+Ticket Pool and System Information:
+Total Capacity: 30, Total Vendors: 5, Total Customers: 10
+Ticketing System has been successfully executed.
+
